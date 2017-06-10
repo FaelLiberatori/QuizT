@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?> 
+<questions>
+    <quest>
+        <wording>Qual a capital do Brasil?</wording>
+        <answers>
+            <right>Brasilia</right>
+            <wrong>Buenos Aries</wrong>
+            <wrong>Rio de Janeiro</wrong>
+            <wrong>São Paulo</wrong>
+        </answers>
+    </quest>
+    <quest>
+        <wording>Qual a capital do Paraguai?</wording>
+        <answers>
+            <right>Virgem</right>
+            <wrong>Buenos Aries</wrong>
+            <wrong>Rio de Janeiro</wrong>
+            <wrong>São Paulo</wrong>
+        </answers>
+    </quest>
+    <quest>
+        <wording>Qual a capital da Argentina?</wording>
+        <answers>
+            <right>Hermanos</right>
+            <wrong>Buenos Aries</wrong>
+            <wrong>Rio de Janeiro</wrong>
+            <wrong>São Paulo</wrong>
+        </answers>
+    </quest>
+</questions>

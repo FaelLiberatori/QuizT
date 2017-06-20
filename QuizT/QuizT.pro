@@ -33,8 +33,9 @@ else: unix:!android: target.path = /opt/$${TARGET}/bin
 !isEmpty(target.path): INSTALLS += target
 
 HEADERS += \
-    xmlquestionsreader.h \
-    questions.h
+    internquestionsreader.h \
+    iquestionsbase.h \
+    imagereader.h
 
 DISTFILES += \
     android/AndroidManifest.xml \
